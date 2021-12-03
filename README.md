@@ -6,9 +6,9 @@ Default profile picture generator microservice using fastapi
 
 ## Image examples
 
-![Aditya Raj](https://67rklj.deta.dev/?username=ar363&name=Aditya%20Raj)
-![John Doe](https://67rklj.deta.dev/?username=johndoe789&name=John%20Doe)
-![Alex](https://67rklj.deta.dev/?username=alex777&name=alex)
+![Aditya Raj](https://pfpgen.deta.dev/?username=ar363&name=Aditya%20Raj)
+![John Doe](https://pfpgen.deta.dev/?username=johndoe789&name=John%20Doe)
+![Alex](https://pfpgen.deta.dev/?username=alex777&name=alex)
 
 ## Usage
 
@@ -29,6 +29,6 @@ You can also deploy wherever else you prefer.
 
 # Demo
 
-https://67rklj.deta.dev
+https://pfpgen.deta.dev
 
 _PS: If you plan to use this a lot, consider self hosting by clicking one of the above two deploy buttons_
