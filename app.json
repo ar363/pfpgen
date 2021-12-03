@@ -1,0 +1,6 @@
+{
+    "name": "PFPGen",
+    "description": "Generate colored profile pictures with the user's name/username",
+    "repository": "https://github.com/ar363/pfpgen",
+    "keywords": ["fastapi", "python", "profile picture", "gravatar","profile image"]
+}
