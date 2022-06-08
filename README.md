@@ -34,9 +34,11 @@ You can also deploy wherever else you prefer.
 | ------------- | ------------------------- |
 |   deta.sh     | [![Deploy to Deta](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/ar363/pfpgen) |
 |   Heroku      | [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) |
+|   Vercel      | [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Far363%2Fpfpgen) |
 
 # Demo
 
 https://pfpgen.deta.dev
+https://pfpgen.vercel.app
 
-_PS: If you plan to use this a lot, consider self hosting by clicking one of the above two deploy buttons_
+_PS: If you plan to use this a lot, consider self hosting by clicking one of the above deploy buttons_
