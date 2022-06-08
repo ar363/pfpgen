@@ -17,7 +17,7 @@ regex==2021.11.10
 sniffio==1.2.0
 starlette==0.16.0
 tomli==1.2.2
-typing-extensions==4.0.1
+typing_extensions==4.0.1
 uvicorn==0.15.0
 uvloop==0.16.0
 watchgod==0.7
